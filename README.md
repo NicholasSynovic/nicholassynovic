@@ -6,14 +6,8 @@
 
 ## Who is Nicholas M. Synovic?
 
-Nicholas M. Synovic (me) is an Undergraduate Computer Science Researcher at Loyola University Chicago and Purdue Univerisity as well as an IT/IS Developer Analyst for Medline Inc.
-
-You can download the latest version of my resume [here](https://nicholassynovic.github.io/Nicholas_Synovic-Resume.pdf).
+Nicholas M. Synovic (me) is an Research Assistant at Loyola University Chicago.
 
 ## What do I do?
 
-I'm currently leading at team of seven in researching Software Engineering metrics and developing tools to measure these metrics for and on open-source repositories at Loyola University Chicago.
-
-I'm also a peer-reviewer of ongoing research occuring at Purdue Univeristy in their exploration of Software Engineering metrics.
-
-At Medline Inc., I've been developing tools and systems to handle the Talent Planning Process (TPP), or the process in which managers report and review their direct reports in order to find individuals who should or could become managers.
+I'm currently exploring potential solutions to optimize computer vision on low powered computer systems.
