@@ -1,9 +1,0 @@
-on: 
-  - push
-  - workflow_dispatch
-
-jobs:
-  git-sync:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Hello World"
