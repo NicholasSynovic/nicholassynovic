@@ -5,5 +5,5 @@ on:
 jobs:
   git-sync:
     runs-on: ubuntu-latest
-    steps: |
-      echo "Hello World"
+    steps:
+      - run: echo "Hello World"
