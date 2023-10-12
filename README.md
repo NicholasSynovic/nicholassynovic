@@ -10,7 +10,8 @@ Nicholas M. Synovic (me) is an Research Assistant at Loyola University Chicago.
 
 ## What do I do?
 
-I'm currently exploring potential solutions to optimize computer vision on low powered computer systems.
+I'm currently exploring potential solutions to optimize computer vision on low
+powered computer systems.
 
 ## Here are some pretty figures
 
